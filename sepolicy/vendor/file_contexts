@@ -1,0 +1,2 @@
+# same-process HAL files and their dependencies
+/(vendor|odm|odm/mount/camera)/lib/rfsa/adsp/libSnpe.*\.so u:object_r:same_process_hal_file:s0
